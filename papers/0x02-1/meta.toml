@@ -1,0 +1,14 @@
+slug = "0x02-1"
+title = "Decoding CUDA Binary"
+source_pdf = "source.pdf"
+source_pdf_name = "0x02.1_Decoding_CUDA_Binary.pdf"
+source_pdf_in_repo = true
+source_lang = "en"
+target_lang = "zh"
+license = "CC-BY-NC-4.0"
+tool_repo = "https://github.com/AbsurdMirror/pdf_agent_translator"
+corpus_repo = "AbsurdMirror/translated-papers"
+github_pages = true
+source_url = "https://doi.org/10.1109/CGO.2019.8661186"
+catalog_id = "0x02.1"
+section = "0x02 ISA / SASS"
