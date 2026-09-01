@@ -1,0 +1,14 @@
+slug = "0x06-2"
+title = "Rendered Insecure: GPU Side Channel Attacks are Practical"
+source_pdf = "source.pdf"
+source_pdf_name = "0x06.2_Rendered_Insecure_GPU_Side_Channel.pdf"
+source_pdf_in_repo = true
+source_lang = "en"
+target_lang = "zh"
+license = "CC-BY-NC-4.0"
+tool_repo = "https://github.com/AbsurdMirror/pdf_agent_translator"
+corpus_repo = "AbsurdMirror/translated-papers"
+github_pages = true
+source_url = "https://doi.org/10.1145/3243734.3243831"
+catalog_id = "0x06.2"
+section = "0x06 安全"

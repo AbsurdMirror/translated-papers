@@ -46,3 +46,4 @@
 - [0x05.5 · Analyzing and Improving Hardware Modeling of Accel-Sim](https://absurdmirror.github.io/translated-papers/papers/0x05-5/document.html) · [PDF](https://absurdmirror.github.io/translated-papers/papers/0x05-5/source.pdf)
 ### 0x06 安全
 - [0x06.1 · Constructing and Characterizing Covert Channels on GPGPUs](https://absurdmirror.github.io/translated-papers/papers/0x06-1/document.html) · [PDF](https://absurdmirror.github.io/translated-papers/papers/0x06-1/source.pdf)
+- [0x06.2 · Rendered Insecure: GPU Side Channel Attacks are Practical](https://absurdmirror.github.io/translated-papers/papers/0x06-2/document.html) · [PDF](https://absurdmirror.github.io/translated-papers/papers/0x06-2/source.pdf)
