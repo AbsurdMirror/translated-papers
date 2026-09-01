@@ -37,3 +37,4 @@
 - [0x03.4 · Dissecting Tensor Cores via Microbenchmarks: Latency, Throughput and Numeric Behaviors](https://absurdmirror.github.io/translated-papers/papers/0x03-4/document.html) · [PDF](https://absurdmirror.github.io/translated-papers/papers/0x03-4/source.pdf)
 ### 0x04 插桩
 - [0x04.1 · NVBit: A Dynamic Binary Instrumentation Framework for NVIDIA GPUs](https://absurdmirror.github.io/translated-papers/papers/0x04-1/document.html) · [PDF](https://absurdmirror.github.io/translated-papers/papers/0x04-1/source.pdf)
+- [0x04.2 · Flexible Software Profiling of GPU Architectures](https://absurdmirror.github.io/translated-papers/papers/0x04-2/document.html) · [PDF](https://absurdmirror.github.io/translated-papers/papers/0x04-2/source.pdf)
