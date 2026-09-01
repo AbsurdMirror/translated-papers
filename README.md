@@ -30,3 +30,5 @@
 - [0x02.3 · CuAsmRL: Optimizing GPU SASS Schedules via Deep Reinforcement Learning](https://absurdmirror.github.io/translated-papers/papers/0x02-3/document.html) · [PDF](https://absurdmirror.github.io/translated-papers/papers/0x02-3/source.pdf)
 - [0x02.4 · SIP: Autotuning GPU Native Schedules via Stochastic Instruction Perturbation](https://absurdmirror.github.io/translated-papers/papers/0x02-4/document.html) · [PDF](https://absurdmirror.github.io/translated-papers/papers/0x02-4/source.pdf)
 - [0x02.5 · Reverse-Engineering cuBLAS](https://absurdmirror.github.io/translated-papers/papers/0x02-5/document.html) · [PDF](https://absurdmirror.github.io/translated-papers/papers/0x02-5/source.pdf)
+### 0x03 存储层次 / P-chase
+- [0x03.1 · Dissecting GPU Memory Hierarchy through Microbenchmarking](https://absurdmirror.github.io/translated-papers/papers/0x03-1/document.html) · [PDF](https://absurdmirror.github.io/translated-papers/papers/0x03-1/source.pdf)
