@@ -44,3 +44,5 @@
 - [0x05.3 · Need for Speed: Experiences Building a Trustworthy System-Level GPU Simulator](https://absurdmirror.github.io/translated-papers/papers/0x05-3/document.html) · [PDF](https://absurdmirror.github.io/translated-papers/papers/0x05-3/source.pdf)
 - [0x05.4 · Mitigating GPU Core Partitioning Performance Effects](https://absurdmirror.github.io/translated-papers/papers/0x05-4/document.html) · [PDF](https://absurdmirror.github.io/translated-papers/papers/0x05-4/source.pdf)
 - [0x05.5 · Analyzing and Improving Hardware Modeling of Accel-Sim](https://absurdmirror.github.io/translated-papers/papers/0x05-5/document.html) · [PDF](https://absurdmirror.github.io/translated-papers/papers/0x05-5/source.pdf)
+### 0x06 安全
+- [0x06.1 · Constructing and Characterizing Covert Channels on GPGPUs](https://absurdmirror.github.io/translated-papers/papers/0x06-1/document.html) · [PDF](https://absurdmirror.github.io/translated-papers/papers/0x06-1/source.pdf)

@@ -1,0 +1,14 @@
+slug = "0x06-1"
+title = "Constructing and Characterizing Covert Channels on GPGPUs"
+source_pdf = "source.pdf"
+source_pdf_name = "0x06.1_Constructing_Covert_Channels_on_GPGPUs.pdf"
+source_pdf_in_repo = true
+source_lang = "en"
+target_lang = "zh"
+license = "CC-BY-NC-4.0"
+tool_repo = "https://github.com/AbsurdMirror/pdf_agent_translator"
+corpus_repo = "AbsurdMirror/translated-papers"
+github_pages = true
+source_url = "https://doi.org/10.1145/3123939.3124533"
+catalog_id = "0x06.1"
+section = "0x06 安全"
