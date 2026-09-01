@@ -1,0 +1,14 @@
+slug = "0x08-8a"
+title = "US20150220341A1 — Software scoreboarding (heterogeneous processors)"
+source_pdf = "source.pdf"
+source_pdf_name = "0x08.8a_US20150220341A1.pdf"
+source_pdf_in_repo = true
+source_lang = "en"
+target_lang = "zh"
+license = "CC-BY-NC-4.0"
+tool_repo = "https://github.com/AbsurdMirror/pdf_agent_translator"
+corpus_repo = "AbsurdMirror/translated-papers"
+github_pages = true
+source_url = "https://patents.google.com/patent/US20150220341A1"
+catalog_id = "0x08.8a"
+section = "0x08 专利"
