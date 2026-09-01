@@ -1,0 +1,14 @@
+slug = "0x07-1"
+title = "GPUWattch: Enabling Energy Optimizations in GPGPUs"
+source_pdf = "source.pdf"
+source_pdf_name = "0x07.1_GPUWattch.pdf"
+source_pdf_in_repo = true
+source_lang = "en"
+target_lang = "zh"
+license = "CC-BY-NC-4.0"
+tool_repo = "https://github.com/AbsurdMirror/pdf_agent_translator"
+corpus_repo = "AbsurdMirror/translated-papers"
+github_pages = true
+source_url = "https://doi.org/10.1145/2485922.2485964"
+catalog_id = "0x07.1"
+section = "0x07 功耗"
