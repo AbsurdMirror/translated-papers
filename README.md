@@ -49,3 +49,4 @@
 - [0x06.2 · Rendered Insecure: GPU Side Channel Attacks are Practical](https://absurdmirror.github.io/translated-papers/papers/0x06-2/document.html) · [PDF](https://absurdmirror.github.io/translated-papers/papers/0x06-2/source.pdf)
 ### 0x07 功耗
 - [0x07.1 · GPUWattch: Enabling Energy Optimizations in GPGPUs](https://absurdmirror.github.io/translated-papers/papers/0x07-1/document.html) · [PDF](https://absurdmirror.github.io/translated-papers/papers/0x07-1/source.pdf)
+- [0x07.2 · AccelWattch: A Power Modeling Framework for Modern GPUs](https://absurdmirror.github.io/translated-papers/papers/0x07-2/document.html) · [PDF](https://absurdmirror.github.io/translated-papers/papers/0x07-2/source.pdf)
