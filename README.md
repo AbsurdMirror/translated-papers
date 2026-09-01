@@ -35,3 +35,5 @@
 - [0x03.2 · Exploring Modern GPU Memory System Design Challenges through Accurate Modeling](https://absurdmirror.github.io/translated-papers/papers/0x03-2/document.html) · [PDF](https://absurdmirror.github.io/translated-papers/papers/0x03-2/source.pdf)
 - [0x03.3 · TunneLs for Bootlegging: Fully Reverse-Engineering GPU TLBs for Challenging Isolation Guarantees of NVIDIA MIG](https://absurdmirror.github.io/translated-papers/papers/0x03-3/document.html) · [PDF](https://absurdmirror.github.io/translated-papers/papers/0x03-3/source.pdf)
 - [0x03.4 · Dissecting Tensor Cores via Microbenchmarks: Latency, Throughput and Numeric Behaviors](https://absurdmirror.github.io/translated-papers/papers/0x03-4/document.html) · [PDF](https://absurdmirror.github.io/translated-papers/papers/0x03-4/source.pdf)
+### 0x04 插桩
+- [0x04.1 · NVBit: A Dynamic Binary Instrumentation Framework for NVIDIA GPUs](https://absurdmirror.github.io/translated-papers/papers/0x04-1/document.html) · [PDF](https://absurdmirror.github.io/translated-papers/papers/0x04-1/source.pdf)
