@@ -1,0 +1,14 @@
+slug = "0x01-7"
+title = "Dissecting the NVIDIA Hopper Architecture through Microbenchmarking and Multiple Level Analysis"
+source_pdf = "source.pdf"
+source_pdf_name = "0x01.7_Dissecting_the_NVIDIA_Hopper_Architecture_through_Microbench.pdf"
+source_pdf_in_repo = true
+source_lang = "en"
+target_lang = "zh"
+license = "CC-BY-NC-4.0"
+tool_repo = "https://github.com/AbsurdMirror/pdf_agent_translator"
+corpus_repo = "AbsurdMirror/translated-papers"
+github_pages = true
+source_url = "https://arxiv.org/abs/2501.12084"
+catalog_id = "0x01.7"
+section = "0x01 微基准测试"
