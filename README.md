@@ -42,3 +42,4 @@
 - [0x05.1 · Analyzing CUDA Workloads Using a Detailed GPU Simulator](https://absurdmirror.github.io/translated-papers/papers/0x05-1/document.html) · [PDF](https://absurdmirror.github.io/translated-papers/papers/0x05-1/source.pdf)
 - [0x05.2 · Accel-Sim: An Extensible Simulation Framework for Validated GPU Modeling](https://absurdmirror.github.io/translated-papers/papers/0x05-2/document.html) · [PDF](https://absurdmirror.github.io/translated-papers/papers/0x05-2/source.pdf)
 - [0x05.3 · Need for Speed: Experiences Building a Trustworthy System-Level GPU Simulator](https://absurdmirror.github.io/translated-papers/papers/0x05-3/document.html) · [PDF](https://absurdmirror.github.io/translated-papers/papers/0x05-3/source.pdf)
+- [0x05.4 · Mitigating GPU Core Partitioning Performance Effects](https://absurdmirror.github.io/translated-papers/papers/0x05-4/document.html) · [PDF](https://absurdmirror.github.io/translated-papers/papers/0x05-4/source.pdf)
