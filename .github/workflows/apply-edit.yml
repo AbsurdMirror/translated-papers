@@ -1,0 +1,46 @@
+name: apply-edit
+on:
+  issue_comment:
+    types: [created]
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+jobs:
+  apply:
+    if: >-
+      startsWith(github.event.comment.body, '/apply')
+      && github.event.issue.pull_request == null
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install translator
+        run: pip install "https://github.com/AbsurdMirror/pdf_agent_translator"
+      - name: Apply
+        env:
+          GH_TOKEN: ${ secrets.GITHUB_TOKEN }
+        run: |
+          set -euo pipefail
+          ACTOR="${ github.actor }"
+          OWNER="${ github.repository_owner }"
+          if [ "$ACTOR" != "$OWNER" ]; then
+            gh api "repos/${ github.repository }/collaborators/$ACTOR/permission" --jq '.permission' | grep -E 'admin|write|maintain' >/dev/null
+          fi
+          pdf-translate apply-issue --repo "${ github.repository }" --issue "${ github.event.issue.number }" --papers-root papers
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add papers
+          if git diff --cached --quiet; then
+            gh issue comment "${ github.event.issue.number }" --body "没有文件变化。"
+            exit 0
+          fi
+          BRANCH="edit/${ github.event.issue.number }"
+          git checkout -B "$BRANCH"
+          git commit -m "Apply edit: #${ github.event.issue.number }"
+          git push -u origin "$BRANCH"
+          gh pr create --fill --head "$BRANCH" --title "Apply edit #${ github.event.issue.number }" --body "Closes #${ github.event.issue.number }" || true
+          gh issue comment "${ github.event.issue.number }" --body "已开 PR 应用此修改。合并后关 Issue。"
+          gh issue edit "${ github.event.issue.number }" --add-label applied || true

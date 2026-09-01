@@ -1,0 +1,30 @@
+name: 译文修改提议
+description: 改一块原文或译文。维护者 /apply 后会生成 commit。
+title: "[edit] "
+labels: ["edit"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        建议从阅读器弹窗点「提议修改」预填。手动填时请给出 slug 和 block_id。
+  - type: input
+    id: paper
+    attributes:
+      label: 论文 slug
+      description: papers/ 下的目录名，例如 gpu-microarchitecture
+    validations:
+      required: true
+  - type: input
+    id: block_id
+    attributes:
+      label: block_id
+    validations:
+      required: true
+  - type: textarea
+    id: patch
+    attributes:
+      label: 补丁 JSON
+      description: 含 schema、原文/译文、before、是否标题、是否翻译。
+      render: json
+    validations:
+      required: true
