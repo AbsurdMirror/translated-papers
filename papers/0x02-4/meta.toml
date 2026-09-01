@@ -1,0 +1,14 @@
+slug = "0x02-4"
+title = "SIP: Autotuning GPU Native Schedules via Stochastic Instruction Perturbation"
+source_pdf = "source.pdf"
+source_pdf_name = "0x02.4_SIP_Autotuning_GPU_Native_Schedules_via_Stochastic_Instructi.pdf"
+source_pdf_in_repo = true
+source_lang = "en"
+target_lang = "zh"
+license = "CC-BY-NC-4.0"
+tool_repo = "https://github.com/AbsurdMirror/pdf_agent_translator"
+corpus_repo = "AbsurdMirror/translated-papers"
+github_pages = true
+source_url = "https://arxiv.org/abs/2403.16863"
+catalog_id = "0x02.4"
+section = "0x02 ISA / SASS"
