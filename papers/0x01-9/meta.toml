@@ -1,0 +1,14 @@
+slug = "0x01-9"
+title = "Microbenchmarking NVIDIA's Blackwell Architecture: An in-depth Architectural Analysis"
+source_pdf = "source.pdf"
+source_pdf_name = "0x01.9_Microbenchmarking_NVIDIA_s_Blackwell_Architecture_An_in_dept.pdf"
+source_pdf_in_repo = true
+source_lang = "en"
+target_lang = "zh"
+license = "CC-BY-NC-4.0"
+tool_repo = "https://github.com/AbsurdMirror/pdf_agent_translator"
+corpus_repo = "AbsurdMirror/translated-papers"
+github_pages = true
+source_url = "https://arxiv.org/abs/2512.02189"
+catalog_id = "0x01.9"
+section = "0x01 微基准测试"
