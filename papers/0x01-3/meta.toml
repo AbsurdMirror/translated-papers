@@ -1,0 +1,14 @@
+slug = "0x01-3"
+title = "Dissecting the NVidia Turing T4 GPU via Microbenchmarking"
+source_pdf = "source.pdf"
+source_pdf_name = "0x01.3_Dissecting_the_NVIDIA_Turing_T4_GPU_via_Microbenchmarking.pdf"
+source_pdf_in_repo = true
+source_lang = "en"
+target_lang = "zh"
+license = "CC-BY-NC-4.0"
+tool_repo = "https://github.com/AbsurdMirror/pdf_agent_translator"
+corpus_repo = "AbsurdMirror/translated-papers"
+github_pages = true
+source_url = "https://arxiv.org/abs/1903.07486"
+catalog_id = "0x01.3"
+section = "0x01 微基准测试"
