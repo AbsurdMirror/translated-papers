@@ -1,0 +1,14 @@
+slug = "0x01-8"
+title = "Dissecting and Modeling the Architecture of Modern GPU Cores"
+source_pdf = "source.pdf"
+source_pdf_name = "0x01.8_Dissecting_and_Modeling_the_Architecture_of_Modern_GPU_Cores.pdf"
+source_pdf_in_repo = true
+source_lang = "en"
+target_lang = "zh"
+license = "CC-BY-NC-4.0"
+tool_repo = "https://github.com/AbsurdMirror/pdf_agent_translator"
+corpus_repo = "AbsurdMirror/translated-papers"
+github_pages = true
+source_url = "https://doi.org/10.1145/3725843.3756041"
+catalog_id = "0x01.8"
+section = "0x01 微基准测试"
