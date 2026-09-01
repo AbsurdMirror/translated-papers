@@ -15,3 +15,4 @@
 
 ### 0x01 微基准测试
 - [0x01.1 · Demystifying GPU Microarchitecture through Microbenchmarking](https://absurdmirror.github.io/translated-papers/papers/gpu-microarchitecture/document.html) · [PDF](https://absurdmirror.github.io/translated-papers/papers/gpu-microarchitecture/source.pdf)
+- [0x01.2 · Dissecting the NVIDIA Volta GPU Architecture via Microbenchmarking](https://absurdmirror.github.io/translated-papers/papers/0x01-2/document.html) · [PDF](https://absurdmirror.github.io/translated-papers/papers/0x01-2/source.pdf)

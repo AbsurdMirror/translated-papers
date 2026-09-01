@@ -1,0 +1,14 @@
+slug = "0x01-2"
+title = "Dissecting the NVIDIA Volta GPU Architecture via Microbenchmarking"
+source_pdf = "source.pdf"
+source_pdf_name = "0x01.2_Dissecting_the_NVIDIA_Volta_GPU_Architecture_via_Microbenchm.pdf"
+source_pdf_in_repo = true
+source_lang = "en"
+target_lang = "zh"
+license = "CC-BY-NC-4.0"
+tool_repo = "https://github.com/AbsurdMirror/pdf_agent_translator"
+corpus_repo = "AbsurdMirror/translated-papers"
+github_pages = true
+source_url = "https://arxiv.org/abs/1804.06826"
+catalog_id = "0x01.2"
+section = "0x01 微基准测试"
