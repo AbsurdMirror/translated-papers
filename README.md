@@ -52,3 +52,4 @@
 - [0x07.2 · AccelWattch: A Power Modeling Framework for Modern GPUs](https://absurdmirror.github.io/translated-papers/papers/0x07-2/document.html) · [PDF](https://absurdmirror.github.io/translated-papers/papers/0x07-2/source.pdf)
 ### 0x08 专利
 - [0x08.8a · US20150220341A1 — Software scoreboarding (heterogeneous processors)](https://absurdmirror.github.io/translated-papers/papers/0x08-8a/document.html) · [PDF](https://absurdmirror.github.io/translated-papers/papers/0x08-8a/source.pdf)
+- [0x08.8b · US11080051B2 — Techniques for efficiently transferring data to a processor (LDGSTS)](https://absurdmirror.github.io/translated-papers/papers/0x08-8b/document.html) · [PDF](https://absurdmirror.github.io/translated-papers/papers/0x08-8b/source.pdf)
