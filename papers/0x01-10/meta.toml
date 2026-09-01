@@ -1,0 +1,14 @@
+slug = "0x01-10"
+title = "Dissecting the NVIDIA Blackwell Architecture with Microbenchmarks"
+source_pdf = "source.pdf"
+source_pdf_name = "0x01.10_Dissecting_the_NVIDIA_Blackwell_Architecture_with_Microbench.pdf"
+source_pdf_in_repo = true
+source_lang = "en"
+target_lang = "zh"
+license = "CC-BY-NC-4.0"
+tool_repo = "https://github.com/AbsurdMirror/pdf_agent_translator"
+corpus_repo = "AbsurdMirror/translated-papers"
+github_pages = true
+source_url = "https://arxiv.org/abs/2507.10789"
+catalog_id = "0x01.10"
+section = "0x01 微基准测试"
