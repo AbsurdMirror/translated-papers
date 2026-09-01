@@ -1,0 +1,14 @@
+slug = "0x03-4"
+title = "Dissecting Tensor Cores via Microbenchmarks: Latency, Throughput and Numeric Behaviors"
+source_pdf = "source.pdf"
+source_pdf_name = "0x03.4_Dissecting_Tensor_Cores_via_Microbenchmarks_Latency_Throughp.pdf"
+source_pdf_in_repo = true
+source_lang = "en"
+target_lang = "zh"
+license = "CC-BY-NC-4.0"
+tool_repo = "https://github.com/AbsurdMirror/pdf_agent_translator"
+corpus_repo = "AbsurdMirror/translated-papers"
+github_pages = true
+source_url = "https://arxiv.org/abs/2206.02874"
+catalog_id = "0x03.4"
+section = "0x03 存储层次 / P-chase"
