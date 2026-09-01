@@ -13,4 +13,5 @@
 
 ## 论文
 
-- [Demystifying_GPU_microarchitecture_through_microbenchmarking.pdf](https://absurdmirror.github.io/translated-papers/papers/gpu-microarchitecture/document.html) · [PDF](https://absurdmirror.github.io/translated-papers/papers/gpu-microarchitecture/source.pdf)
+### 0x01 微基准测试
+- [0x01.1 · Demystifying GPU Microarchitecture through Microbenchmarking](https://absurdmirror.github.io/translated-papers/papers/gpu-microarchitecture/document.html) · [PDF](https://absurdmirror.github.io/translated-papers/papers/gpu-microarchitecture/source.pdf)

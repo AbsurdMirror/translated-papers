@@ -1,5 +1,5 @@
 slug = "gpu-microarchitecture"
-title = "Demystifying_GPU_microarchitecture_through_microbenchmarking.pdf"
+title = "Demystifying GPU Microarchitecture through Microbenchmarking"
 source_pdf = "source.pdf"
 source_pdf_name = "Demystifying_GPU_microarchitecture_through_microbenchmarking.pdf"
 source_pdf_in_repo = true
@@ -9,3 +9,6 @@ license = "CC-BY-NC-4.0"
 tool_repo = "https://github.com/AbsurdMirror/pdf_agent_translator"
 corpus_repo = "AbsurdMirror/translated-papers"
 github_pages = true
+source_url = "https://doi.org/10.1109/ISPASS.2010.5452013"
+catalog_id = "0x01.1"
+section = "0x01 微基准测试"
