@@ -38,3 +38,5 @@
 ### 0x04 插桩
 - [0x04.1 · NVBit: A Dynamic Binary Instrumentation Framework for NVIDIA GPUs](https://absurdmirror.github.io/translated-papers/papers/0x04-1/document.html) · [PDF](https://absurdmirror.github.io/translated-papers/papers/0x04-1/source.pdf)
 - [0x04.2 · Flexible Software Profiling of GPU Architectures](https://absurdmirror.github.io/translated-papers/papers/0x04-2/document.html) · [PDF](https://absurdmirror.github.io/translated-papers/papers/0x04-2/source.pdf)
+### 0x05 模拟器
+- [0x05.1 · Analyzing CUDA Workloads Using a Detailed GPU Simulator](https://absurdmirror.github.io/translated-papers/papers/0x05-1/document.html) · [PDF](https://absurdmirror.github.io/translated-papers/papers/0x05-1/source.pdf)
