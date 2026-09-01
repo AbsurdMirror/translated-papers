@@ -1,0 +1,14 @@
+slug = "0x05-3"
+title = "Need for Speed: Experiences Building a Trustworthy System-Level GPU Simulator"
+source_pdf = "source.pdf"
+source_pdf_name = "0x05.3_Need_for_Speed_NVArchSim.pdf"
+source_pdf_in_repo = true
+source_lang = "en"
+target_lang = "zh"
+license = "CC-BY-NC-4.0"
+tool_repo = "https://github.com/AbsurdMirror/pdf_agent_translator"
+corpus_repo = "AbsurdMirror/translated-papers"
+github_pages = true
+source_url = "https://research.nvidia.com/publication/2021-02_need-speed-experiences-building-trustworthy-system-level-gpu-simulator"
+catalog_id = "0x05.3"
+section = "0x05 模拟器"
